@@ -1,0 +1,9 @@
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\obj\Debug\VoiceRecognizition3.Form1.resources
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\obj\Debug\VoiceRecognizition3.Properties.Resources.resources
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\obj\Debug\VoiceRecognizition3.csproj.GenerateResource.Cache
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\bin\Debug\VoiceRecognizition3.exe.config
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\bin\Debug\VoiceRecognizition3.exe
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\bin\Debug\VoiceRecognizition3.pdb
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\obj\Debug\VoiceRecognizition3.exe
+c:\users\djeff\documents\visual studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\obj\Debug\VoiceRecognizition3.pdb
+C:\Users\Djeff\Documents\Visual Studio 2017\Projects\VoiceRecognizition3\VoiceRecognizition3\obj\Debug\VoiceRecognizition3.csprojResolveAssemblyReference.cache
